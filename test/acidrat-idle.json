@@ -1,0 +1,137 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 1920,
+    "image": "acidrat-idle.png",
+    "name": "acidrat-idle",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "acidrat-idle-0",
+            "origin": [
+                74,
+                104
+            ],
+            "rect": [
+                92,
+                116,
+                148,
+                104
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "acidrat-idle-1",
+            "origin": [
+                74,
+                100
+            ],
+            "rect": [
+                92,
+                360,
+                148,
+                100
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "acidrat-idle-2",
+            "origin": [
+                74,
+                100
+            ],
+            "rect": [
+                92,
+                600,
+                148,
+                100
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "acidrat-idle-3",
+            "origin": [
+                74,
+                100
+            ],
+            "rect": [
+                92,
+                840,
+                148,
+                100
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "acidrat-idle-4",
+            "origin": [
+                74,
+                104
+            ],
+            "rect": [
+                92,
+                1076,
+                148,
+                104
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 5,
+            "name": "acidrat-idle-5",
+            "origin": [
+                74,
+                104
+            ],
+            "rect": [
+                92,
+                1316,
+                148,
+                104
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 6,
+            "name": "acidrat-idle-6",
+            "origin": [
+                77,
+                96
+            ],
+            "rect": [
+                88,
+                1564,
+                152,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 7,
+            "name": "acidrat-idle-7",
+            "origin": [
+                77,
+                100
+            ],
+            "rect": [
+                88,
+                1800,
+                152,
+                100
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 8,
+    "rotations": false,
+    "using_grid": false,
+    "width": 283
+}

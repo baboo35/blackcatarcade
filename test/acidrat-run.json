@@ -1,0 +1,122 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 1680,
+    "image": "acidrat-run.png",
+    "name": "acidrat-run",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "acidrat-run-0",
+            "origin": [
+                100,
+                76
+            ],
+            "rect": [
+                52,
+                144,
+                188,
+                76
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "acidrat-run-1",
+            "origin": [
+                116,
+                76
+            ],
+            "rect": [
+                36,
+                384,
+                212,
+                76
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "acidrat-run-2",
+            "origin": [
+                118,
+                80
+            ],
+            "rect": [
+                36,
+                620,
+                216,
+                80
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "acidrat-run-3",
+            "origin": [
+                120,
+                76
+            ],
+            "rect": [
+                36,
+                860,
+                224,
+                76
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "acidrat-run-4",
+            "origin": [
+                118,
+                72
+            ],
+            "rect": [
+                40,
+                1100,
+                220,
+                72
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 5,
+            "name": "acidrat-run-5",
+            "origin": [
+                116,
+                96
+            ],
+            "rect": [
+                48,
+                1324,
+                208,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 6,
+            "name": "acidrat-run-6",
+            "origin": [
+                118,
+                80
+            ],
+            "rect": [
+                44,
+                1580,
+                204,
+                80
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 7,
+    "rotations": false,
+    "using_grid": false,
+    "width": 274
+}
